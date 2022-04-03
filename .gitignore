@@ -1,0 +1,7 @@
+# editor
+.vscode
+
+# vagrant
+.vagrant
+
+.DS_Store
